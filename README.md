@@ -1,4 +1,4 @@
-<img src="preview/pic.jpg">
+<img src="preview/pic2.jpg">
 
 ## [Soho](https://sohoo.vercel.app/) is a landing HTML template. ##
 
