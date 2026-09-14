@@ -1,15 +1,14 @@
 <img src="preview/junso.jpg"  width="100%" max-width="800px">       
 
-### [Junso](https://junso.vercel.app/) is a landing page template for premium brands, boutiques, and high-end retail stores.
+### [Junso](https://junso.vercel.app/) is a landing for premium brands & boutiques.
 
-- Responsive layout    
-- Brand showcase table  
-- Light/Dark theme toggle   
-- Vanilla JS
-- ScrollReveal.js
-- Yandex Maps API  
-   
-<img alt="" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="20"/><img alt="" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="20"/><img alt="" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="20"/><img alt="" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="20"/><img alt="" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="20"/><img alt="" src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" height="20"/>
+Responsive layout    
+Brand showcase table  
+Light/Dark theme toggle   
+Vanilla JS
+ScrollReveal.js
+Yandex Maps API    
+
 
 The layout focuses on visual storytelling, smooth animations, and a refined user experience inspired by luxury fashion aesthetics. It includes brand showcases, store listings, contact information, interactive navigation, and a map integration.
 
@@ -71,3 +70,8 @@ Clean typography (Google Fonts – Poppins)
 🌙 Theme Switcher   
 
 - Toggle between day/night mode   
+
+##### Tech Stack   
+```
+Bun | Vite | Vercel | Tailwind | Vanilla JS   
+```
